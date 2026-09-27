@@ -1,0 +1,19 @@
+name: FCM Direct
+desc: Google Firebase Cloud Messaging Direct Connection
+
+rules:
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,mtalk4.google.com,DIRECT
+  - DOMAIN,mtalk-staging.google.com,DIRECT
+  - DOMAIN,mtalk-dev.google.com,DIRECT
+  - DOMAIN,alt1-mtalk.google.com,DIRECT
+  - DOMAIN,alt2-mtalk.google.com,DIRECT
+  - DOMAIN,alt3-mtalk.google.com,DIRECT
+  - DOMAIN,alt4-mtalk.google.com,DIRECT
+  - DOMAIN,alt5-mtalk.google.com,DIRECT
+  - DOMAIN,alt6-mtalk.google.com,DIRECT
+  - DOMAIN,alt7-mtalk.google.com,DIRECT
+  - DOMAIN,alt8-mtalk.google.com,DIRECT
+  - DOMAIN,android.apis.google.com,DIRECT
+  - DOMAIN,device-provisioning.googleapis.com,DIRECT
+  - DOMAIN,firebaseinstallations.googleapis.com,DIRECT
